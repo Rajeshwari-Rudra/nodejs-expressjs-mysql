@@ -1,0 +1,36 @@
+{
+  "dependencies": {
+    "cookie-parser": "~1.4.4",
+    "debug": "~2.6.9",
+    "ejs": "~2.6.1",
+    "express": "~4.16.1",
+    "express-flash": "^0.0.2",
+    "express-session": "^1.17.1",
+    "http-errors": "~1.6.3",
+    "method-override": "^3.0.0",
+    "morgan": "~1.9.1",
+    "mysql": "^2.18.1"
+  },
+  "name": "nodejs-expressjs-mysql",
+  "description": "This project is based on CRUD operations in Node.js with Express.js and MySQL",
+  "version": "1.0.0",
+  "main": "app.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rajeshwari-Rudra/nodejs-expressjs-mysql.git"
+  },
+  "author": "Rajeshwari",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rajeshwari-Rudra/nodejs-expressjs-mysql/issues"
+  },
+  "homepage": "https://github.com/Rajeshwari-Rudra/nodejs-expressjs-mysql#readme"
+}
